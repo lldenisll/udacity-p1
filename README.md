@@ -1,1 +1,2 @@
-# udacity-p1
+# SageMaker deployment project! 
+
